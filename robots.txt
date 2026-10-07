@@ -1,0 +1,9 @@
+# robots.txt for toursalegria.com
+# Every page is open and indexable, including AI search and user-fetch agents.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI guide: /llms.txt
+Sitemap: https://toursalegria.com/sitemap.xml
