@@ -390,3 +390,65 @@ legend{font-weight:700;font-size:.92rem;float:left;width:100%;margin-bottom:.55r
   .van-pola{width:54%}
 }
 .th-media .sticker.s2{right:auto;left:-10px;top:-14px;bottom:auto}
+
+/* ---------- v3: official logo, van sticker, real moments ---------- */
+.logo-mark{border-radius:50%;background:var(--paper);object-fit:contain;filter:none;box-shadow:0 2px 6px color-mix(in srgb,var(--ink) 18%,transparent)}
+.wa-head .logo-mark{box-shadow:none}
+.van-sticker{position:absolute;right:-4%;bottom:-2%;width:62%;z-index:4;transform:rotate(-4deg);margin:0;transition:transform .4s}
+.van-sticker:hover{transform:rotate(-1deg) scale(1.03)}
+.van-sticker img{width:100%;height:auto;filter:drop-shadow(0 8px 14px color-mix(in srgb,var(--ink) 18%,transparent))}
+.van-sticker figcaption{font-family:var(--font-hand);font-size:1.35rem;text-align:center;margin-top:-.2rem;color:var(--ink)}
+.moments{background:var(--paper-2);padding-top:clamp(2.5rem,6vw,4.5rem)}
+.moments-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4rem;margin-top:2rem}
+.moments-grid .polaroid img{aspect-ratio:4/5;object-fit:cover}
+.moments-grid .polaroid:nth-child(odd){transform:rotate(-2.5deg)}
+.moments-grid .polaroid:nth-child(even){transform:rotate(2deg);margin-top:1.4rem}
+.moments-grid .polaroid.in:nth-child(odd){transform:rotate(-2.5deg)}
+.moments-grid .polaroid.in:nth-child(even){transform:rotate(2deg)}
+@media (max-width:900px){.moments-grid{grid-template-columns:repeat(2,1fr)}.van-sticker{width:66%;right:-2%}}
+.logo-mark{width:52px;height:52px}
+.tour-gallery{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+.story-collage{min-height:640px}
+.story-collage .q1{width:70%}
+.story-collage .q2{width:34%;top:4%}
+.van-sticker{left:2%;right:auto;bottom:0;width:96%;transform:rotate(-3deg)}
+.van-sticker figcaption{font-size:1.6rem}
+@media (max-width:900px){.story-collage{height:min(150vw,640px)}.van-sticker{width:98%;left:1%}}
+
+/* ---------- v3: stickers made from the official logo ---------- */
+.deco{position:absolute;pointer-events:none;z-index:6;height:auto;filter:drop-shadow(0 4px 6px color-mix(in srgb,var(--ink) 12%,transparent))}
+.d-hero-van{width:150px;left:-6%;top:-4%;transform:rotate(-10deg)}
+.d-hero-sun{width:110px;right:-4%;bottom:6%;transform:rotate(12deg)}
+.d-tour{width:120px;left:-26px;top:-30px;transform:rotate(-10deg)}
+.d-find{width:110px;right:4%;top:2.2rem;transform:rotate(10deg)}
+.d-touch{width:95px;right:5%;top:1rem;transform:rotate(6deg)}
+.d-moments{width:140px;right:4%;top:2rem;transform:rotate(-5deg)}
+.d-book{width:130px;left:3%;top:1.4rem;transform:rotate(-6deg);opacity:.95}
+.d-faq{width:90px;right:8%;top:3rem;transform:rotate(8deg)}
+.sticker{display:none}
+@media (max-width:900px){
+  .d-hero-van{width:110px;left:-2%;top:-6%}
+  .d-hero-sun{width:80px;right:0}
+  .d-find,.d-moments{width:80px;top:1rem}
+  .d-touch{width:64px}.d-book{width:90px;top:.6rem}.d-faq{width:64px;top:2rem}
+  .d-tour{width:90px;left:-8px;top:-24px}
+}
+
+/* ---------- v3: hero collage without captions + mobile spacing ---------- */
+.collage .polaroid{padding-bottom:1.5rem}
+.collage .p3 img{object-position:38% 50%}
+.d-hero-sun{right:-3%;top:-7%;bottom:auto;width:100px}
+@media (max-width:900px){
+  .collage{height:auto;min-height:0;display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1.6rem;padding:0 .3rem}
+  .collage .p1,.collage .p2,.collage .p3{position:relative;left:auto;right:auto;top:auto;bottom:auto;width:auto}
+  .collage .p1{grid-column:1/-1;transform:rotate(1.5deg)}
+  .collage .p2{transform:rotate(-3deg)}
+  .collage .p3{transform:rotate(3deg);margin-top:.8rem}
+  .collage .p2 img,.collage .p3 img{aspect-ratio:1/1}
+  .collage .p2 img{object-position:60% 50%}
+  .d-hero-van{width:96px;left:-4px;top:-22px}
+  .d-hero-sun{width:70px;right:-6px;top:-18px}
+}
+.d-touch{top:-2.6rem;right:7%}
+.d-moments{width:84px;top:1.4rem;transform:rotate(8deg)}
+@media (max-width:900px){.d-touch{top:-1.8rem}.d-moments{width:60px}}
