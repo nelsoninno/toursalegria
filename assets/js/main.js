@@ -1,4 +1,4 @@
-/* Tours Alegría: small interactions (menu, reveal, trip finder, WhatsApp booking form). No libraries. */
+/* Alegria Trips: small interactions (menu, reveal, trip finder, WhatsApp booking form). No libraries. */
 (function () {
   var doc = document.documentElement;
   doc.classList.remove('no-js');
@@ -10,10 +10,37 @@
     btn.addEventListener('click', function () {
       var open = menu.classList.toggle('open');
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (window.__hdrSync) window.__hdrSync();
     });
     menu.addEventListener('click', function (e) {
-      if (e.target.closest('a')) { menu.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); }
+      if (e.target.closest('a')) { menu.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); if (window.__hdrSync) window.__hdrSync(); }
     });
+  }
+
+  /* Silent looping farm videos: play only while on screen; no autoplay for people who prefer less motion */
+  var vids = document.querySelectorAll('video.loop-video');
+  if (vids.length) {
+    var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    vids.forEach(function (v) { v.muted = true; if (still) { v.controls = true; v.preload = 'metadata'; } });
+    if (!still && 'IntersectionObserver' in window) {
+      var vio = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          var v = en.target;
+          if (en.isIntersecting) { var p = v.play(); if (p && p.catch) p.catch(function () { v.controls = true; }); }
+          else { v.pause(); }
+        });
+      }, { threshold: 0.35 });
+      vids.forEach(function (v) { vio.observe(v); });
+    } else if (!still) { vids.forEach(function (v) { v.autoplay = true; v.play(); }); }
+  }
+
+  /* Header: transparent over the home photo, solid after scrolling */
+  var hdr = document.querySelector('.site-header');
+  if (hdr && document.body.classList.contains('is-home')) {
+    /* solid while scrolled down or while the mobile menu is open */
+    var onScroll = function () { hdr.classList.toggle('scrolled', window.scrollY > 40 || !!(menu && menu.classList.contains('open'))); };
+    window.__hdrSync = onScroll;
+    window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
   }
 
   /* Gentle scroll reveal */
