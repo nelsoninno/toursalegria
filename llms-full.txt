@@ -1,18 +1,18 @@
 # Alegria Trips
 
-> Alegria Trips runs small-group, all-inclusive day trips in El Salvador with hotel pickup in Surf City (El Tunco and El Zonte), from $120 per person.
+> Alegria Trips runs small-group, all-inclusive trips and experiences in El Salvador: day trips and a 2-day escape with hotel pickup in Surf City (El Tunco and El Zonte), from $120 per person. Website: https://alegriatripselsalvador.com
 
 ## What we do
 Alegria Trips is a young Salvadoran travel startup run by three friends from Surf City. We take small groups on all-inclusive day trips to waterfalls, regenerative farms, cacao and coffee farms, Lake Coatepeque, Suchitoto and the Montecristo cloud forest. Every trip includes hotel pickup, transport and lunch.
 
 ## Tours
-- [Tamanique Waterfalls and Organic Farm Lunch](https://toursalegria.com/tamanique-waterfalls-tour): A morning of waterfalls, then a slow farm lunch made with what grows right there. 6 hours, $120 per person.
-- [Comasagua Regenerative Farm: Cacao, Microgreens and Brunch](https://toursalegria.com/comasagua-regenerative-farm-tour): Slow down in the mountains of La Libertad. Share cacao, grow microgreens, walk the farm. 8.5 hours, $120 per person.
-- [Cerro Verde and Lake Coatepeque](https://toursalegria.com/cerro-verde-lake-coatepeque-tour): Cool mountain air in the morning, a lazy afternoon by the most beautiful lake in El Salvador. 11 hours, $175 per person.
-- [Organic Cacao and Coffee Experience](https://toursalegria.com/cacao-coffee-tour): From the tree to the cup: two farms, an ocean-view lunch and the people behind the flavors. 9 hours, $230 per person.
-- [Surf and Yoga Morning in Mizata](https://toursalegria.com/surf-yoga-mizata-tour): Uncrowded waves, yoga by the sea and a healthy brunch. A morning that fills you with energy. 7.5 hours, $135 per person.
-- [Cihuatán Rum Tour and Suchitoto](https://toursalegria.com/rum-suchitoto-tour): See how Salvadoran rum is made, then wander the cobbled streets of Suchitoto. 10 hours, $145 per person.
-- [El Limo and Montecristo: 2-Day Trip](https://toursalegria.com/el-limo-montecristo-2-day-tour): Two days between hidden waterfalls and a century-old cloud forest. 2 days, 1 night, $400 per person.
+- [Tamanique Waterfalls and Organic Farm Lunch](https://alegriatripselsalvador.com/tamanique-waterfalls-tour): A morning of waterfalls, then a slow farm lunch made with what grows right there. 6 hours, $120 per person.
+- [Comasagua Regenerative Farm: Cacao, Microgreens and Brunch](https://alegriatripselsalvador.com/comasagua-regenerative-farm-tour): Slow down in the mountains of La Libertad. Share cacao, grow microgreens, walk the farm. 8.5 hours, $120 per person.
+- [Cerro Verde and Lake Coatepeque](https://alegriatripselsalvador.com/cerro-verde-lake-coatepeque-tour): Cool mountain air in the morning, a lazy afternoon by the most beautiful lake in El Salvador. 11 hours, $175 per person.
+- [Organic Cacao and Coffee Experience](https://alegriatripselsalvador.com/cacao-coffee-tour): From the tree to the cup: two farms, an ocean-view lunch and the people behind the flavors. 9 hours, $230 per person.
+- [Surf and Yoga Morning in Mizata](https://alegriatripselsalvador.com/surf-yoga-mizata-tour): Uncrowded waves, yoga by the sea and a healthy brunch. A morning that fills you with energy. 7.5 hours, $135 per person.
+- [Cihuatán Rum Tour and Suchitoto](https://alegriatripselsalvador.com/rum-suchitoto-tour): See how Salvadoran rum is made, then wander the cobbled streets of Suchitoto. 10 hours, $145 per person.
+- [El Limo and Montecristo: 2-Day Trip](https://alegriatripselsalvador.com/el-limo-montecristo-2-day-tour): Two days between hidden waterfalls and a century-old cloud forest. 2 days, 1 night, $400 per person.
 
 ## Problems we solve
 - You want to see the real El Salvador beyond the beach, but do not want to organize transport, food and guides yourself: we pick you up at your hotel and include everything.
@@ -30,10 +30,10 @@ International travelers staying in Surf City, El Salvador (El Tunco, El Zonte an
 - Service in English and Spanish. Airport transfers available.
 
 ## Contact & links
-- [Website (EN)](https://toursalegria.com/)
-- [Website (ES)](https://toursalegria.com/es/)
+- [Website (EN)](https://alegriatripselsalvador.com/)
+- [Website (ES)](https://alegriatripselsalvador.com/es/)
 - [WhatsApp](https://wa.me/50369773982)
-- [Full content](https://toursalegria.com/llms-full.txt)
+- [Full content](https://alegriatripselsalvador.com/llms-full.txt)
 
 
 ---
@@ -52,7 +52,7 @@ We pick you up at your hotel, travel in small groups and take care of everything
 - Lunch included: Real local food, so you never have to reach for your wallet.
 
 ## Tamanique Waterfalls and Organic Farm Lunch
-URL: https://toursalegria.com/tamanique-waterfalls-tour
+URL: https://alegriatripselsalvador.com/tamanique-waterfalls-tour
 Price: $120 per person
 Duration: 6 hours (8:00 am to 2:00 pm)
 Effort: Active. A 3-hour hike to four waterfalls. Good shoes and a swimsuit are a great idea.
@@ -74,7 +74,7 @@ Includes:
 - Organic, regenerative lunch at Orgánicos de Tamanique
 
 ## Comasagua Regenerative Farm: Cacao, Microgreens and Brunch
-URL: https://toursalegria.com/comasagua-regenerative-farm-tour
+URL: https://alegriatripselsalvador.com/comasagua-regenerative-farm-tour
 Price: $120 per person
 Duration: 8.5 hours (6:30 am to 3:00 pm)
 Effort: Easy. Gentle walking around the farm. Good for most fitness levels.
@@ -99,7 +99,7 @@ Includes:
 - Our company during the whole experience
 
 ## Cerro Verde and Lake Coatepeque
-URL: https://toursalegria.com/cerro-verde-lake-coatepeque-tour
+URL: https://alegriatripselsalvador.com/cerro-verde-lake-coatepeque-tour
 Price: $175 per person
 Duration: 11 hours (6:00 am to 5:00 pm)
 Effort: Easy. A light, easy hike. The rest of the day is pure relaxing.
@@ -123,7 +123,7 @@ Includes:
 - 30 minutes of kayaking on Lake Coatepeque
 
 ## Organic Cacao and Coffee Experience
-URL: https://toursalegria.com/cacao-coffee-tour
+URL: https://alegriatripselsalvador.com/cacao-coffee-tour
 Price: $230 per person
 Duration: 9 hours (8:30 am to 5:30 pm)
 Effort: Moderate. Two farm walks, partly on hilly mountain paths in the Cordillera del Bálsamo. Comfortable shoes recommended.
@@ -150,7 +150,7 @@ Includes:
 - Our company during the whole day
 
 ## Surf and Yoga Morning in Mizata
-URL: https://toursalegria.com/surf-yoga-mizata-tour
+URL: https://alegriatripselsalvador.com/surf-yoga-mizata-tour
 Price: $135 per person
 Duration: 7.5 hours (6:00 am to 1:30 pm)
 Effort: Active. Made for intermediate surfers who can already catch waves on their own.
@@ -174,7 +174,7 @@ Includes:
 - A relaxed, small-group vibe
 
 ## Cihuatán Rum Tour and Suchitoto
-URL: https://toursalegria.com/rum-suchitoto-tour
+URL: https://alegriatripselsalvador.com/rum-suchitoto-tour
 Price: $145 per person
 Duration: 10 hours (7:00 am to 5:00 pm)
 Effort: Easy. Easy walking. The longest part is the drive, in a comfortable van.
@@ -197,7 +197,7 @@ Includes:
 - Lunch in Suchitoto
 
 ## El Limo and Montecristo: 2-Day Trip
-URL: https://toursalegria.com/el-limo-montecristo-2-day-tour
+URL: https://alegriatripselsalvador.com/el-limo-montecristo-2-day-tour
 Price: $400 per person
 Duration: 2 days, 1 night (Departure in the morning from Surf City)
 Effort: Active. A short, accessible waterfall walk on day 1 and a forest hike on day 2.
@@ -241,6 +241,9 @@ Each trip shows an effort level: easy, moderate or active. The Tamanique waterfa
 ### Is it safe?
 Your safety comes first. We travel in our own van with small groups, we know every place we visit, and we always carry a first-aid kit.
 
+### What are the best trips and experiences in El Salvador from El Tunco?
+From Surf City (El Tunco and El Zonte) you can reach most of El Salvador in a day. Our favorites: the Tamanique waterfalls, a regenerative farm in Comasagua, Cerro Verde and Lake Coatepeque, organic cacao and coffee farms, surf and yoga in Mizata, rum and the colonial town of Suchitoto, and a 2-day trip to El Limo and the Montecristo cloud forest. All with hotel pickup and lunch included.
+
 ### Can you take us to a destination that is not on the list?
 Yes. If you would like a tour to any other destination in El Salvador, message us on WhatsApp and we will send you a quote.
 
@@ -251,4 +254,4 @@ Yes. We also offer transport between the airport and Surf City. Ask us on WhatsA
 Use the booking form or write us on WhatsApp with the trip, your dates and how many people are coming. We reply in English or Spanish, confirm availability and send you the payment details.
 
 ## En español
-Alegria Trips organiza tours en grupos pequeños y todo incluido en El Salvador, con recogida en tu hotel en Surf City. Sitio en español: https://toursalegria.com/es/
+Alegria Trips organiza tours en grupos pequeños y todo incluido en El Salvador, con recogida en tu hotel en Surf City. Sitio en español: https://alegriatripselsalvador.com/es/

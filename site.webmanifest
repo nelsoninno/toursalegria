@@ -1,7 +1,7 @@
 {
   "name": "Alegria Trips",
   "short_name": "Alegria Trips",
-  "description": "Small-group day trips in El Salvador with hotel pickup in Surf City.",
+  "description": "Small-group trips and experiences in El Salvador with hotel pickup in Surf City.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

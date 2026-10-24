@@ -1,4 +1,4 @@
-# robots.txt for toursalegria.com
+# robots.txt for alegriatripselsalvador.com
 # Every page is open and indexable, including AI search and user-fetch agents.
 
 User-agent: *
@@ -6,4 +6,4 @@ Allow: /
 Disallow: /api/
 
 # AI guide: /llms.txt
-Sitemap: https://toursalegria.com/sitemap.xml
+Sitemap: https://alegriatripselsalvador.com/sitemap.xml
